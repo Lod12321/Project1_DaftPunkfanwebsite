@@ -1,4 +1,3 @@
-#README
 Project Overview
 
 Personal website about my favorite artist
